@@ -6,4 +6,4 @@ Python program to find the factorial of a given number.
 ## Output
 
 
-![Output](screenshot.png)
+![Output](SS From the week2.jpg)
